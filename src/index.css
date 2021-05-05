@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap");
+
+:root {
+  --logo-color: #5cdb95;
+  --text-color: #065aaf;
+  --neutral-color: #edf5e1;
+  --dark-color:#1a1a1a;
+  --semi-grey-color:#a6aaad;
+  --grey-color:#4b4949;
+  --box-shadow-color:#a8a8a8;
+}
+
+html, * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Quicksand", sans-serif, "Franklin Gothic Medium", "Arial Narrow",
+    Arial;
+  color: var(--text-color);
+}
+
+/*                utility               */
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.d-block{
+  display: block;
+}
+.text-align-center {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.hover:hover {
+  color: #05386b;
+  border-bottom: 2px solid var(--text-color);
+}
+
+/******************************************/
