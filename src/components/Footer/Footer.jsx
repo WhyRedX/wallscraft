@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer id="footer">
       <div className="footer">
-        <div className="f-1 center">
+        <div className="f-1">
           <div className="logo center">
             <h1>wallscraft</h1>
           </div>
@@ -15,7 +15,7 @@ export function Footer() {
             of awesome wallpapers.
           </p>
         </div>
-        <div className="f-2 center">
+        <div className="f-2">
           <h3>Tools</h3>
           <ul>
             <li>
@@ -32,7 +32,7 @@ export function Footer() {
             </li>
           </ul>
         </div>
-        <div className="f-3 center">
+        <div className="f-3">
           <h3>Info</h3>
           <ul>
             <li>
@@ -46,6 +46,20 @@ export function Footer() {
             </li>
             <li>
               <a href="#">Contact</a>
+            </li>
+          </ul>
+        </div>
+        <div className="f-4">
+          <h3>Follow us</h3>
+          <ul>
+            <li>
+              <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
+            </li>
+            <li>
+              <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i> Facebook</a>
+            </li>
+            <li>
+              <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i> Linkedin</a>
             </li>
           </ul>
         </div>

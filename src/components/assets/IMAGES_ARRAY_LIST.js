@@ -22,7 +22,6 @@ const IMAGES_ARRAY_LIST=[
         image8:"https://wallpapercave.com/wp/wp2940882.jpg",
         image9:"https://wallpapercave.com/wp/wp3154006.jpg",
         image10:"https://wallpapercave.com/wp/wp4595254.jpg"
- 
     },
     {
         image1:"https://wallpapercave.com/wp/wp1820112.jpg",
@@ -49,6 +48,19 @@ const IMAGES_ARRAY_LIST=[
         image9:"https://wallpapercave.com/wp/YLmN5cj.jpg",
         image10:"https://wallpapercave.com/wp/wp1869937.png"
 
+    },
+    {
+        image1:"https://wallpapercave.com/wp/wp1869876.jpg",
+        image2:"https://wallpapercave.com/wp/wp1869893.jpg",
+        image3:"https://wallpapercave.com/wp/wp1869905.jpg",
+        image4:"https://wallpapercave.com/wp/wp1869994.jpg",
+        image5:"https://wallpapercave.com/wp/wp6564529.jpg",
+        image6:"https://wallpapercave.com/wp/wp2969607.jpg",
+        image7:"https://wallpapercave.com/wp/wp2940877.jpg",
+        image8:"https://wallpapercave.com/wp/wp2940882.jpg",
+        image9:"https://wallpapercave.com/wp/wp3154006.jpg",
+        image10:"https://wallpapercave.com/wp/wp4595254.jpg"
+ 
     }
 ]
 

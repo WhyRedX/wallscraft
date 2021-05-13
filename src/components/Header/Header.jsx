@@ -2,6 +2,7 @@ import React from "react";
 import './Header.css'
 export function Header() {
   return (
+    <>
     <header id="header" className="center">
       <h1 className="head text-align-center d-block">HD Wallpapers</h1>
       <p className="paragraph-subtitle-1 text-align-center d-block">
@@ -14,6 +15,7 @@ export function Header() {
         homescreen? Browse through even more HD photos and videos:
       </p>
     </header>
+    </>
   );
 }
 
